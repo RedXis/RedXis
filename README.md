@@ -1,9 +1,6 @@
 # Nicolò Bregu · RedXis
 
-**Computer Science student · AI projects · Troubleshooting & device repair**
-
-Computer Science student at the University of Milano-Bicocca, with a strong focus on problem solving and hands-on technical work. I enjoy turning complex problems into clean, working solutions, from software to hardware.
-
+Computer Science student at the University of Milano-Bicocca.
 ---
 
 ## About
@@ -12,13 +9,6 @@ Computer Science student at the University of Milano-Bicocca, with a strong focu
 -  Problem solving, troubleshooting, and programming
 -  Designing and building AI-driven projects
 -  Diagnosing, repairing, and optimizing a wide range of devices
-
-
-## What I Do
-
-- **Software development**: building and iterating on personal and academic projects
-- **AI projects**: experimenting with and applying AI to practical use cases
-- **Technical support**: system setup, diagnostics, and device restoration
 
 ## Tech Stack
 
