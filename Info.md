@@ -29,6 +29,6 @@ Computer Science student at the University of Milano-Bicocca.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedXis&theme=transparent)](https://git.io/streak-stats)
 
-##bregunicolo01@gmail.com
+bregunicolo01@gmail.com
 
 
