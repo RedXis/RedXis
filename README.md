@@ -12,7 +12,7 @@ Computer Science student at the University of Milano-Bicocca.
 
 ## Projects & Experience
 
-- **Unitre Merate: Digital Support Project**
+- **Unitre: Digital Support Project**
   Took part in a project providing assistance with the everyday use of devices such as computers and smartphones.
 
 - **Arduino Project**
