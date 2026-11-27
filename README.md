@@ -1,4 +1,4 @@
-# Nicolò Bregu · RedXis
+# · RedXis
 
 Computer Science student at the University of Milano-Bicocca.
 ---
